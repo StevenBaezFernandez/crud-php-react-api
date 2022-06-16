@@ -2,10 +2,10 @@
 
     class DB extends Mysqli{
         // conection DB data
-        private $host = "localhost";
-        private $db_user = "root";
-        private $db_pass = "";
-        private $db_name = "react_crud";
+        private $host = "us-cdbr-east-05.cleardb.net";
+        private $db_user = "bbe11075ea0456";
+        private $db_pass = "33e74393";
+        private $db_name = "heroku_383bbb66ca7b997";
 
         //Overall data
         private $method;
